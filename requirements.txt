@@ -5,3 +5,4 @@ flask-cors>=6.0.0
 python-dotenv>=1.0.0
 pymongo>=4.3.0
 numpy
+uvicorn>=0.30.0
